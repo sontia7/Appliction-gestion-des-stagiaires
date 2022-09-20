@@ -1,0 +1,126 @@
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Biblio.deps.json
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Biblio.runtimeconfig.json
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Biblio.exe
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.exe
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.deps.json
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.runtimeconfig.json
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.pdb
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Biblio.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\bin\Debug\net6.0-windows\Biblio.pdb
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.AssemblyReference.cache
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfoInputs.cache
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfo.cs
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CoreCompileInputs.cache
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CopyComplete
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\refint\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.pdb
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.genruntimeconfig.cache
+D:\Projets\SONTIA\GestStagiaire\GestStagiaire\obj\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.deps.json
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.runtimeconfig.json
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.exe
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.exe
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.deps.json
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.runtimeconfig.json
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\bin\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfoInputs.cache
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfo.cs
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CopyComplete
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\obj\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.genruntimeconfig.cache
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\Biblio.deps.json
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\Biblio.runtimeconfig.json
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\Biblio.exe
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.exe
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.deps.json
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.runtimeconfig.json
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.pdb
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\Biblio.dll
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\Biblio.pdb
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.AssemblyReference.cache
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfoInputs.cache
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfo.cs
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CoreCompileInputs.cache
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CopyComplete
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\refint\GestStagiaire.dll
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.pdb
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.genruntimeconfig.cache
+D:\Projets\SONTIA\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.deps.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.runtimeconfig.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.exe
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.exe
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.deps.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.runtimeconfig.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfoInputs.cache
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfo.cs
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CopyComplete
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.genruntimeconfig.cache
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.deps.json
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.runtimeconfig.json
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.exe
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.exe
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.deps.json
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.runtimeconfig.json
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\bin\Debug\net6.0-windows\Biblio.pdb
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfoInputs.cache
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfo.cs
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CopyComplete
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.genruntimeconfig.cache
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\Biblio.deps.json
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\Biblio.runtimeconfig.json
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\Biblio.exe
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.exe
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.deps.json
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.runtimeconfig.json
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\Biblio.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\bin\Debug\net6.0-windows\Biblio.pdb
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfoInputs.cache
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.AssemblyInfo.cs
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.csproj.CopyComplete
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\ref\GestStagiaire.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.pdb
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\GestStagiaire\obj\Debug\net6.0-windows\GestStagiaire.genruntimeconfig.cache

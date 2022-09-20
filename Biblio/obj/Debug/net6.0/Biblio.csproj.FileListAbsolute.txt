@@ -1,0 +1,90 @@
+D:\Projets\SONTIA\GestStagiaire\Biblio\bin\Debug\net6.0\Biblio.exe
+D:\Projets\SONTIA\GestStagiaire\Biblio\bin\Debug\net6.0\Biblio.deps.json
+D:\Projets\SONTIA\GestStagiaire\Biblio\bin\Debug\net6.0\Biblio.runtimeconfig.json
+D:\Projets\SONTIA\GestStagiaire\Biblio\bin\Debug\net6.0\Biblio.dll
+D:\Projets\SONTIA\GestStagiaire\Biblio\bin\Debug\net6.0\Biblio.pdb
+D:\Projets\SONTIA\GestStagiaire\Biblio\obj\Debug\net6.0\Biblio.csproj.AssemblyReference.cache
+D:\Projets\SONTIA\GestStagiaire\Biblio\obj\Debug\net6.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\SONTIA\GestStagiaire\Biblio\obj\Debug\net6.0\Biblio.AssemblyInfoInputs.cache
+D:\Projets\SONTIA\GestStagiaire\Biblio\obj\Debug\net6.0\Biblio.AssemblyInfo.cs
+D:\Projets\SONTIA\GestStagiaire\Biblio\obj\Debug\net6.0\Biblio.csproj.CoreCompileInputs.cache
+D:\Projets\SONTIA\GestStagiaire\Biblio\obj\Debug\net6.0\Biblio.dll
+D:\Projets\SONTIA\GestStagiaire\Biblio\obj\Debug\net6.0\refint\Biblio.dll
+D:\Projets\SONTIA\GestStagiaire\Biblio\obj\Debug\net6.0\Biblio.pdb
+D:\Projets\SONTIA\GestStagiaire\Biblio\obj\Debug\net6.0\Biblio.genruntimeconfig.cache
+D:\Projets\SONTIA\GestStagiaire\Biblio\obj\Debug\net6.0\ref\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\bin\Debug\net6.0\Biblio.exe
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\bin\Debug\net6.0\Biblio.deps.json
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\bin\Debug\net6.0\Biblio.runtimeconfig.json
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\bin\Debug\net6.0\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\bin\Debug\net6.0\ref\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\bin\Debug\net6.0\Biblio.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\obj\Debug\net6.0\Biblio.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\obj\Debug\net6.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\obj\Debug\net6.0\Biblio.AssemblyInfoInputs.cache
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\obj\Debug\net6.0\Biblio.AssemblyInfo.cs
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\obj\Debug\net6.0\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\obj\Debug\net6.0\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\obj\Debug\net6.0\ref\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\obj\Debug\net6.0\Biblio.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire (3)\Biblio\obj\Debug\net6.0\Biblio.genruntimeconfig.cache
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\bin\Debug\net6.0\Biblio.exe
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\bin\Debug\net6.0\Biblio.deps.json
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\bin\Debug\net6.0\Biblio.runtimeconfig.json
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\bin\Debug\net6.0\Biblio.dll
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\bin\Debug\net6.0\Biblio.pdb
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.csproj.AssemblyReference.cache
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.AssemblyInfoInputs.cache
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.AssemblyInfo.cs
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.csproj.CoreCompileInputs.cache
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.dll
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\refint\Biblio.dll
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.pdb
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.genruntimeconfig.cache
+D:\Projets\SONTIA\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\ref\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\bin\Debug\net6.0\Biblio.exe
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\bin\Debug\net6.0\Biblio.deps.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\bin\Debug\net6.0\Biblio.runtimeconfig.json
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\bin\Debug\net6.0\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\bin\Debug\net6.0\ref\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\bin\Debug\net6.0\Biblio.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.AssemblyInfoInputs.cache
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.AssemblyInfo.cs
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\ref\Biblio.dll
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.pdb
+C:\Users\Etudiant\Downloads\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.genruntimeconfig.cache
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\bin\Debug\net6.0\Biblio.exe
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\bin\Debug\net6.0\Biblio.deps.json
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\bin\Debug\net6.0\Biblio.runtimeconfig.json
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\bin\Debug\net6.0\Biblio.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\bin\Debug\net6.0\ref\Biblio.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\bin\Debug\net6.0\Biblio.pdb
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.AssemblyInfoInputs.cache
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.AssemblyInfo.cs
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\ref\Biblio.dll
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.pdb
+C:\Users\Etudiant\Desktop\BD et Programmation O.Objet\GestStagiaire_Palier1 (3)\Biblio\obj\Debug\net6.0\Biblio.genruntimeconfig.cache
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\bin\Debug\net6.0\Biblio.exe
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\bin\Debug\net6.0\Biblio.deps.json
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\bin\Debug\net6.0\Biblio.runtimeconfig.json
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\bin\Debug\net6.0\Biblio.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\bin\Debug\net6.0\ref\Biblio.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\bin\Debug\net6.0\Biblio.pdb
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.AssemblyInfoInputs.cache
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.AssemblyInfo.cs
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\ref\Biblio.dll
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.pdb
+C:\Users\Etudiant\Desktop\POO Q2\GestStagiaire_Palier1\Biblio\obj\Debug\net6.0\Biblio.genruntimeconfig.cache

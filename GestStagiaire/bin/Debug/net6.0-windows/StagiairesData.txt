@@ -1,0 +1,197 @@
+14
+STAG03
+lionel@condorcet.com
+8521475
+1245
+quai poissonsceau
+CONDORCET
+True
+Desobry
+Ostende
+Automatisation perceuse
+Informatiques
+03-02-11 00:00:00
+03-03-21 00:00:00
+10
+STAG4
+lionel@com
+2563
+1548962
+rue poissonx
+Mons
+False
+Desobry
+Charleroi
+Automatisation perceuse
+Electromecanique
+03-01-01 00:00:00
+05-06-11 00:00:00
+12
+STAG5
+kevin@condorcet.be
+56897
+1487
+rue morel
+ULIEGE
+True
+DESOBRY
+Charleroi
+AUTOMATISATION
+Aeronotique
+01-02-01 00:00:00
+02-03-21 00:00:00
+13
+STAG6
+Aloys@condorcet.be
+4568
+CE114525
+rue l'abatoir
+UNAMUR
+False
+COLRYUT
+Ostende
+AUTOMATISATION
+Chimie
+03-03-24 00:00:00
+28-02-25 00:00:00
+14
+STAG7
+marbin@condorcet.be
+1235
+CE14525
+RUE MOREL
+HEPH
+False
+COLRUYT
+BruxelleCentral
+AUTOMATISATION
+Chimie
+01-02-05 00:00:00
+06-02-25 00:00:00
+15
+STAG08
+joyce@condorcet.be
+159263
+1487563
+l'abatoir
+CONDORCET
+True
+RANDSTAD
+Mons
+AUTOMATISATION
+Topographie
+03-03-21 00:00:00
+04-04-21 00:00:00
+14
+STAG8
+steve@condorcet.be
+95487
+874512
+Rue morel
+CONDORCET
+False
+TECHNORD
+Tournai
+AUTOMATISATION
+Topographie
+02-05-22 00:00:00
+05-05-22 00:00:00
+17
+STAG9
+lucas@condorcet.be
+9516237
+CE589623
+rue morel
+CONDORCET
+True
+DELHAIZE
+Charleroi
+AUTOMATISATION ROUE
+Chimie
+02-02-22 00:00:00
+02-03-22 00:00:00
+15
+STAG10
+quentin@condorcet
+plhgd
+1259874
+RUE MOREL
+CONDORCET
+False
+RANDSTAD
+Ostende
+AUTOMATISATION
+Kinesitherapie
+05-05-21 00:00:00
+05-04-22 00:00:00
+14
+STAG11
+YVAN@condorcet
+562398
+582130
+RUE MOREL
+MONS
+False
+ISS
+Tournai
+AUTOMATISATION
+Informatiques
+03-04-21 00:00:00
+02-05-22 00:00:00
+10
+STAG11
+85625
+crepin
+459632
+rue MOREL
+EPHEC
+True
+TECHNORD
+Gand
+AUTOMATISATION
+Informatiques
+09-03-05 00:00:00
+05-05-06 00:00:00
+5
+STAG12
+scop@be
+85263
+CE1548
+RUE MOREL
+DE VINCI
+False
+SIEMENS
+BruxelleCentral
+AUTOMATISATION
+Electromecanique
+05-03-21 00:00:00
+06-03-21 00:00:00
+11
+STAG13
+CONSTAé@kl
+95623
+CE1548
+RUE POISSON
+ULIEGE
+False
+Rue l'abatoir
+Ostende
+AUTOMATISATION
+Aeronotique
+15-03-00 00:00:00
+15-04-01 00:00:00
+12
+STAG
+fionar@.be
+fionar55
+56895647
+BLANDAIN 4
+ULIEGE
+False
+DESOBRY
+Charleroi
+ROBOTIQUE
+Informatiques
+02-05-00 00:00:00
+01-05-50 00:00:00
+11

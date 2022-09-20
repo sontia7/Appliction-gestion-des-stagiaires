@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GestStagiaire/1.0.0": {
+        "dependencies": {
+          "Biblio": "1.0.0"
+        },
+        "runtime": {
+          "GestStagiaire.dll": {}
+        }
+      },
+      "Biblio/1.0.0": {
+        "runtime": {
+          "Biblio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestStagiaire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Biblio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
